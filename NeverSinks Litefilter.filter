@@ -238,24 +238,32 @@ Sockets > 0
 Rarity Normal
 SetBorderColor 200 200 200
 SetFontSize 35
+PlayEffect Purple
+MinimapIcon 1 Purple Diamond
 
 Show
 Quality > 10
 Rarity Normal
 SetBorderColor 200 200 200
 SetFontSize 35
+PlayEffect Purple
+MinimapIcon 1 Purple Diamond
 
 Show
 Sockets > 0
 Rarity Magic
 SetBorderColor 0 0 200
 SetFontSize 35
+PlayEffect Purple
+MinimapIcon 1 Purple Diamond
 
 Show
 Quality > 10
 Rarity Magic
 SetBorderColor 0 0 200
 SetFontSize 35
+PlayEffect Purple
+MinimapIcon 1 Purple Diamond
 
 #--------------------------
 # OPTIONAL RULES
